@@ -170,7 +170,3 @@ The project specification is included in the repository as:
 **Tsomaros**
 
 GitHub: [@Tsomaros](https://github.com/Tsomaros)
-
-## License
-
-This project is provided for educational purposes.
